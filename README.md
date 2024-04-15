@@ -1,6 +1,6 @@
    # 👋 Hello, Je m'appelle Romain Parisot
 
-Je suis actuellement étudiant en A2 a l'IIM et j'étudie la programmation dans le domaine du backend, frontend, mobile, algorithmie, base de données, UX/UI et CMS
+Je suis actuellement étudiant en A3 a l'IIM et j'étudie la programmation dans le domaine du backend, frontend, mobile, algorithmie, base de données, UX/UI, CMS ... ( Liste complete ici https://www.iim.fr/cursus/bachelor-coding-digital-innovation/ )
 
 Je fais beaucoup de traveaux de groupe et de gestion de projet et c'est quelque chose que j'apprecie
 
